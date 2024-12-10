@@ -4,4 +4,6 @@ Learn the essentials of Project and Program Management and prepare for PMP certi
 ## Topics:
 - Process Groups
 - Standard for Project Management
-- Project Management Book of Knowledge
+- Project Management Domains
+- Models, Methods, and Artifacts
+- Agile Guide
