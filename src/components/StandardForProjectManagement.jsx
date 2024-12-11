@@ -1,7 +1,7 @@
 export default function StandardForProjectManagement() {
   return (
     <div>
-      <h2 className='text-center display-6 fw-normal'>The Standard for Project Management</h2>
+      <h3 className='text-center display-6 fw-normal'>The Standard for Project Management</h3>
       <h4>Product Lifecycle</h4>
       <p>Stages in Product Lifecycle:</p>
       <ol>
