@@ -5,6 +5,7 @@ import StandardForProjectManagement from './components/StandardForProjectManagem
 import ProjectManagementDomains from './components/ProjectManagementDomains';
 import ModelsMethodsAndArtifacts from './components/ModelsMethodsAndArtifacts';
 import ProcessGroups from './Components/processGroups';
+import Terminology from './components/Terminology';
 
 function App() {
 
@@ -32,21 +33,24 @@ function App() {
 
       <div className='px-4 my-4 text-center sticky-top'>
           <div className='d-grid gap-2 d-sm-flex justify-content-sm-center sticky-top stickyTopics'>
-            <button type='button' className='tabBtn btn btn-primary fw-medium' onClick={() => useTab(1)} id='btn1'>Process Groups</button>
-            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(2)} id='btn2'>Standard</button>
-            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(3)} id='btn3'>Domains</button>
-            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(4)} id='btn4'>Models & Methods</button>
-            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(5)} id='btn5'>Agile Guide</button>
-            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(6)} id='btn6'>View All</button>
+
+            <button type='button' className='tabBtn btn btn-primary fw-medium' onClick={() => useTab(1)} id='btn1'>Terminology</button>
+            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(2)} id='btn2'>Process Groups</button>
+            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(3)} id='btn3'>Standard</button>
+            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(4)} id='btn4'>Domains</button>
+            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(5)} id='btn5'>Models & Methods</button>
+            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(6)} id='btn6'>Agile Guide</button>
+            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(9)} id='btn9'>View All</button>
           </div>
       </div>
 
       <div className='px-4 my-5'>
-        {(topic === 1 || topic === 6) && <ProcessGroups />}
-        {(topic === 2 || topic === 6) && <StandardForProjectManagement />}
-        {(topic === 3 || topic === 6) && <ProjectManagementDomains />}
-        {(topic === 4 || topic === 6) && <ModelsMethodsAndArtifacts />}
-        {(topic === 5 || topic === 6) && <AgileGuide />}
+        {(topic === 1 || topic === 9) && <Terminology />}
+        {(topic === 2 || topic === 9) && <ProcessGroups />}
+        {(topic === 3 || topic === 9) && <StandardForProjectManagement />}
+        {(topic === 4 || topic === 9) && <ProjectManagementDomains />}
+        {(topic === 5 || topic === 9) && <ModelsMethodsAndArtifacts />}
+        {(topic === 6 || topic === 9) && <AgileGuide />}
       </div>
     </div>
   );
