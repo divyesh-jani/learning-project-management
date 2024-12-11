@@ -33,7 +33,7 @@ function App() {
       <div className='px-4 my-4 text-center sticky-top'>
           <div className='d-grid gap-2 d-sm-flex justify-content-sm-center sticky-top stickyTopics'>
             <button type='button' className='tabBtn btn btn-primary fw-medium' onClick={() => useTab(1)} id='btn1'>Process Groups</button>
-            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(2)} id='btn2'>Standards</button>
+            <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(2)} id='btn2'>Standard</button>
             <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(3)} id='btn3'>Domains</button>
             <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(4)} id='btn4'>Models & Methods</button>
             <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(5)} id='btn5'>Agile Guide</button>
