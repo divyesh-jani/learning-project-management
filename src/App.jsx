@@ -23,12 +23,15 @@ function App() {
 
   return (
     <div>
-      <div className='px-4 my-5 text-center'>
-        {/* <img className='d-block mx-auto mb-4' src='./src/assets/favicon.ico' alt='Project Management Logo' /> */}
+      <div className='px-4 my-4 text-center'>
         <h1 className='display-5 text-body-emphasis fw-normal'>Project Management - PMP</h1>
         <div className='col-lg-6 mx-auto'>
           <p className='lead mb-4 fw-normal'>Learn the essentials of Project Management and prepare for PMP certification test.</p>
-          <div className='d-grid gap-2 d-sm-flex justify-content-sm-center'>
+        </div>
+      </div>
+
+      <div className='px-4 my-4 text-center sticky-top'>
+          <div className='d-grid gap-2 d-sm-flex justify-content-sm-center sticky-top stickyTopics'>
             <button type='button' className='tabBtn btn btn-primary fw-medium' onClick={() => useTab(1)} id='btn1'>Process Groups</button>
             <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(2)} id='btn2'>Standards</button>
             <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(3)} id='btn3'>Domains</button>
@@ -36,7 +39,6 @@ function App() {
             <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(5)} id='btn5'>Agile Guide</button>
             <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(6)} id='btn6'>View All</button>
           </div>
-        </div>
       </div>
 
       <div className='px-4 my-5'>

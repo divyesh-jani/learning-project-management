@@ -1,3 +1,9 @@
 .listStyleTypeNone {
     list-style-type: none;
 }
+
+.stickyTopics {
+    padding-top: 7px;
+    padding-bottom: 8px;
+    background-color: white;
+}
