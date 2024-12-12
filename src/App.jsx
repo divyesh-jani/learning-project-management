@@ -4,7 +4,7 @@ import AgileGuide from './components/AgileGuide';
 import StandardForProjectManagement from './components/StandardForProjectManagement';
 import ProjectManagementDomains from './components/ProjectManagementDomains';
 import ModelsMethodsAndArtifacts from './components/ModelsMethodsAndArtifacts';
-import ProcessGroups from './Components/processGroups';
+import ProcessGroups from './components/ProcessGroups';
 import Terminology from './components/Terminology';
 
 function App() {
