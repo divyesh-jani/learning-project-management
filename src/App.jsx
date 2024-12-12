@@ -54,8 +54,8 @@ function App() {
 
       <footer className='border-top'>
         <div className='px-4 my-4 text-center'>
-          <div className='col-lg-6 mx-auto text-body-secondary'>
-            <p className='mb-4'>© 2024 Do not copy</p>
+          <div className='col-lg-12 mx-auto text-body-secondary'>
+            <p className='mb-4'>© 2024 Project Management Institute (PMI). All rights reserved.</p>
           </div>
         </div>
       </footer>
