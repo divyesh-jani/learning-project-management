@@ -1,7 +1,7 @@
 export default function AgileGuide() {
   return (
     <div>
-      <h3 className='text-center display-6 fw-normal'>Agile Guide</h3>
+      <h3 className='text-center'>Agile Guide</h3>
 
       <figure className='figure'>
         <img src='./src/assets/agile/agile-guide.png' className='figure-img img-fluid rounded' alt='Agile Guide' />

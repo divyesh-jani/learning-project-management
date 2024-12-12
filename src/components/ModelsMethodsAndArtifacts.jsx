@@ -1,7 +1,7 @@
 export default function ModelsMethodsAndArtifacts() {
   return (
     <div>
-      <h3 className='text-center display-6 fw-normal'>Models, Methods, and Artifacts</h3>
+      <h3 className='text-center'>Models, Methods, and Artifacts</h3>
 
       <h4>Tailoring</h4>
       <p>Tailoring is the deliberate adaptation of project management approach, governance, and processes to make them more suitable for the given environment and the work at hand. Tailoring involves understanding the project context, goals, and operating environment.</p>

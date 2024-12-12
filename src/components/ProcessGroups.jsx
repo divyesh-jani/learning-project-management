@@ -3,7 +3,7 @@ import Process from './Process';
 export default function ProcessGroups() {
   return (
     <div>
-      <h3 className='text-center display-6 fw-normal'>Process Groups</h3>
+      <h3 className='text-center'>Process Groups</h3>
 
       <p><strong>Project Management Process Groups</strong>:</p>
       <ol>

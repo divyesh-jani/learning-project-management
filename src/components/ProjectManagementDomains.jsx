@@ -1,7 +1,7 @@
 export default function ProjectManagementDomains() {
   return (
     <div>
-      <h3 className='text-center display-6 fw-normal'>Project Management Domains</h3>
+      <h3 className='text-center'>Project Management Domains</h3>
       <p>A project performance domain is a group of related activities that are critical for the effective delivery of project outcomes. There are 8 project performance domains:</p>
 
       <h4>1. Stakeholders</h4>
