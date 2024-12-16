@@ -8,7 +8,7 @@ export default function ModelsMethodsAndArtifacts() {
       <p>Tailoring that only impacts the project team requires less oversight than tailoring that impacts external groups, therefore internal project tailoring might be approved by the project manager while tailoring changes that impact external groups may require approval by the Project Management Office (PMO) or Value Delivery Office (VDO).</p>
       <p>VDO may be found in organizations that use more adaptive delivery approaches. The VDO serves an enabling role, rather than a management or oversight function.</p>
       <figure className='figure'>
-        <img src='./src/assets/models/tailoring.png' className='figure-img img-fluid rounded' alt='Tailoring Suggestions for Situations' />
+        <img src='/assets/models/tailoring.png' className='figure-img img-fluid rounded' alt='Tailoring Suggestions for Situations' />
       </figure>
 
       <h4>Models, Methods, and Artifacts</h4>
@@ -129,7 +129,7 @@ export default function ModelsMethodsAndArtifacts() {
 
       <h6>Unique Characteristics of Project, Program, and Product</h6>
       <figure className='figure'>
-        <img src='./src/assets/models/characteristics.png' className='figure-img img-fluid rounded' alt='Unique Characteristics of Project, Program, and Product' />
+        <img src='/assets/models/characteristics.png' className='figure-img img-fluid rounded' alt='Unique Characteristics of Project, Program, and Product' />
       </figure>
 
     </div>

@@ -14,7 +14,7 @@ export default function ProcessGroups() {
         <li>Closing - formally close or complete the project, phase, or contract</li>
       </ol>
       <figure className='figure'>
-        <img src='./src/assets/groups/process-groups.png' className='figure-img img-fluid rounded' alt='Process Groups and Project Management Processes' />
+        <img src='/assets/groups/process-groups.png' className='figure-img img-fluid rounded' alt='Process Groups and Project Management Processes' />
       </figure>
       <p><strong>Project Charter</strong> is document issued by project sponsor that formally authorizes existence of project and provides project manager with authority to apply organizational resources to project activities.</p>
       <p><strong>Project Management Plan</strong> is document that describes how the project will be executed, monitored, and controlled. Integrates and consolidates all subsidiary management plans (scope, schedule, resource, risk, stakeholder, etc.)</p>
@@ -25,7 +25,7 @@ export default function ProcessGroups() {
         <li>Cost - approved version of time-phased project budget, excluding any management reserves</li>
       </ul>
       <figure className='figure'>
-        <img src='./src/assets/groups/plan-and-documents.png' className='figure-img img-fluid rounded' alt='Project Management Plan and Project Documents' />
+        <img src='/assets/groups/plan-and-documents.png' className='figure-img img-fluid rounded' alt='Project Management Plan and Project Documents' />
       </figure>
       <p><strong>Project Success Measures</strong>:</p>
       <ul>

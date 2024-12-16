@@ -1,6 +1,6 @@
 export default function Process(props) {
   let { index = 1, name = '', description = '', image = 'process-groups' } = props;
-  let imagePath = './src/assets/groups/' + image + '.png';
+  let imagePath = '/assets/groups/' + image + '.png';
   let altImagetext = name + ' Process group Inputs, Tools, Techniques, and Outputs';
   return (
     <div>

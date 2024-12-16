@@ -4,7 +4,7 @@ export default function AgileGuide() {
       <h3 className='text-center'>Agile Guide</h3>
 
       <figure className='figure'>
-        <img src='./src/assets/agile/agile-guide.png' className='figure-img img-fluid rounded' alt='Agile Guide' />
+        <img src='/assets/agile/agile-guide.png' className='figure-img img-fluid rounded' alt='Agile Guide' />
       </figure>
       <h4>Life Cycle Selection</h4>
       <h6>Predictive Life Cycle</h6>
@@ -16,7 +16,7 @@ export default function AgileGuide() {
       <h6>Agile Life Cycle</h6>
       <p>An approach that is both iterative and incremental to refine work items and deliver frequently.</p>
       <figure className='figure'>
-        <img src='./src/assets/agile/life-cycle-comparison.png' className='figure-img img-fluid rounded' alt='Life Cycle Characteristics Comparison' />
+        <img src='/assets/agile/life-cycle-comparison.png' className='figure-img img-fluid rounded' alt='Life Cycle Characteristics Comparison' />
       </figure>
 
       <h4>Implementing Agile</h4>
@@ -34,13 +34,13 @@ export default function AgileGuide() {
       <p>Development team is cross functional, self-organizing team consisting of team members who have everything they need within the team to deliver working product without depending on others outside of the team.</p>
       <p>Scrum Master is responsible for ensuring the Scrum process is upheld and works to ensure the team adheres to the practices and rules as well as coaches the team on removing impediments.</p>
       <figure className='figure'>
-        <img src='./src/assets/agile/scrum.png' className='figure-img img-fluid rounded' alt='Scrum Events and Artifacts' />
+        <img src='/assets/agile/scrum.png' className='figure-img img-fluid rounded' alt='Scrum Events and Artifacts' />
       </figure>
 
       <h4>Extreme Programming</h4>
       <p>Extreme Programming (XP) is a software development method based on frequent cycles.</p>
       <figure className='figure'>
-        <img src='./src/assets/agile/extreme-programming.png' className='figure-img img-fluid rounded' alt='Extreme Programming' />
+        <img src='/assets/agile/extreme-programming.png' className='figure-img img-fluid rounded' alt='Extreme Programming' />
       </figure>
 
       <h4>Kanban</h4>
@@ -56,7 +56,7 @@ export default function AgileGuide() {
         <li>Reduction of waste - transparency makes waste visible</li>
       </ul>
       <figure className='figure'>
-        <img src='./src/assets/agile/kanban.png' className='figure-img img-fluid rounded' alt='Kanban Principles and Properties' />
+        <img src='/assets/agile/kanban.png' className='figure-img img-fluid rounded' alt='Kanban Principles and Properties' />
       </figure>
 
       <h4>Scrum of Scrums</h4>
