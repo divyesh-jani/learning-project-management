@@ -126,7 +126,7 @@ export default function Terminology() {
 
       <h5>Earned Value Calculations</h5>
       <figure className='figure'>
-        <img src='/assets/terminology/earned-value-calculations.png' className='figure-img img-fluid rounded' alt='Earned Value Calculations Summary' />
+        <img src='assets/terminology/earned-value-calculations.png' className='figure-img img-fluid rounded' alt='Earned Value Calculations Summary' />
       </figure>
 
     </div>
