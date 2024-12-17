@@ -19,6 +19,31 @@ export default function AgileGuide() {
         <img src='assets/agile/life-cycle-comparison.png' className='figure-img img-fluid rounded' alt='Life Cycle Characteristics Comparison' />
       </figure>
 
+      <h4>Agile Values and Principles</h4>
+      <p>Agile values and principles as declared in <a href="https://agilemanifesto.org/" target="_blank">Agile Manifesto</a> in 2001:</p>
+      <h5>Values</h5>
+      <ul>
+        <li><strong>Individuals and interactions</strong> over processes and tools</li>
+        <li><strong>Working software</strong> over comprehensive documentation</li>
+        <li><strong>Customer collaboration</strong> over contract negotiation</li>
+        <li><strong>Responding to change</strong> over following a plan</li>
+      </ul>
+      <h5>Principles</h5>
+      <ol>
+        <li>Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</li>
+        <li>Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.</li>
+        <li>Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.</li>
+        <li>Business people and developers must work together daily throughout the project.</li>
+        <li>Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.</li>
+        <li>The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.</li>
+        <li>Working software is the primary measure of progress.</li>
+        <li>Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.</li>
+        <li>Continuous attention to technical excellence and good design enhances agility.</li>
+        <li>Simplicity--the art of maximizing the amount of work not done--is essential.</li>
+        <li>The best architectures, requirements, and designs emerge from self-organizing teams.</li>
+        <li>At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.</li>
+      </ol>
+
       <h4>Implementing Agile</h4>
       <p>Agile approaches emphasize servant leadership as a way to empower teams. <strong>Servant leadership</strong> is the practice of leading through service to the team, by focusing on understanding and addressing the needs and development of team members in order to enable the highest possible team performance.</p>
       <p>Role of servant leader is to facilitate team's discovery and definition of agile. Servant leaders approach work in this order:</p>
