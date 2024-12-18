@@ -61,6 +61,13 @@ export default function AgileGuide() {
       <figure className='figure'>
         <img src='assets/agile/scrum.png' className='figure-img img-fluid rounded' alt='Scrum Events and Artifacts' />
       </figure>
+      <p>While setting the stage for retrospective, we can determine the participants as ESVP:</p>
+      <ul>
+        <li>Explorer</li>
+        <li>Shopper</li>
+        <li>Vacationer</li>
+        <li>Prisoner</li>
+      </ul>
 
       <h4>Extreme Programming</h4>
       <p>Extreme Programming (XP) is a software development method based on frequent cycles.</p>
@@ -86,6 +93,20 @@ export default function AgileGuide() {
 
       <h4>Scrum of Scrums</h4>
       <p>Scrum of Scrums, also known as 'meta Scrum' is a technique used when two or more scrum teams consisting of three to nine members each need to coordinate their work instead of one large scrum team. A representative from each team attends a meeting with the other team representative(s), potentially daily but typically two to three times a week.</p>
+
+      <h4>User Stories</h4>
+      <p>Requirements can be decomposed into: Epics - Features - Stories - Tasks</p>
+      <p>Common structure of a user story: As a (user type), I (want to/need to, goal) so that (value).</p>
+      <p>Effective user stories should be 'INVEST':</p>
+      <ul>
+        <li>Independent</li>
+        <li>Negotiable</li>
+        <li>Valuable</li>
+        <li>Estimable</li>
+        <li>Small</li>
+        <li>Testable</li>
+      </ul>
+
     </div>
   );
 }

@@ -84,7 +84,7 @@ export default function ProjectManagementDomains() {
       <ul>
         <li>Deterministic and Probabilistic estimating - Deterministic estimates, also known as point estimates, present a single number or amount. Probabilistic estimates include a range of estimates with associated probabilities within the range.</li>
         <li>Absolute and Relative estimating - Absolute estimates are specific numbers and relative estimates are shown in comparison to other estimates. One form of relative estimating is planning poker.</li>
-        <li>Flow-based estimating - developed by determining cycle time and throughput. Cycle time is total time it takes one unit to get through a process. Throughput is number of items that can complete a process in given amount of time.</li>
+        <li>Flow-based estimating - developed by determining cycle time and throughput. Cycle time is total time it takes one unit to get through a process. Throughput is number of items that can complete a process in given amount of time. Cycle time = Work / Throughput.</li>
       </ul>
       <p><strong>Schedule</strong> is a model for executing project's activities, including durations, dependencies, and other planning information.</p>
       <p><strong>Lead</strong> is where the work of successor activity is accelerated, such as starting a successor activity before predecessor has finished. Lag is delay of successor activity.</p>

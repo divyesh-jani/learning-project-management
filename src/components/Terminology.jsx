@@ -123,6 +123,7 @@ export default function Terminology() {
         <li>Pessimistic (tP) - Worst case scenario</li>
       </ul>
       <p>Triangular Distribution formula is tE = (tO + tM + tP) / 3</p>
+      <p><strong>Risk's Expected Monitory Value</strong>: Impact($) x Probability(%)</p>
 
       <h5>Earned Value Calculations</h5>
       <figure className='figure'>
