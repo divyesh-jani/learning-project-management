@@ -27,6 +27,9 @@ export default function Terminology() {
       <p><strong>Project Scope Statement</strong> - Includes the description of project scope, major deliverables, and exclusions.</p>
       <p><strong>Work Breakdown Structure (WBS)</strong> - Hierarchical decomposition of total scope of work to be carried out by project team to accomplish project objectives and create required deliverables.</p>
       <p><strong>WBS Dictionary</strong> - A document that provides detailed deliverable, activity, and scheduling information about each component in the WBS. Supports WBS.</p>
+      <p><strong>Work Performance Data</strong> - Simply the raw data that generally comes out of executing processes and is not useful by itself.</p>
+      <p><strong>Work Performance Information</strong> - Information about work performed compared to the plan. This is output of monitoring and controlling processes and gives the actual status of the deliverables.</p>
+      <p><strong>Work Performance Report</strong> - Gives the overall status report of the project. This takes all work performance information and puts it in one comprehensive document.</p>
       <p><strong>Stakeholder Register</strong> - Document that does identification, assessment, and classification of project stakeholders.</p>
       <p><strong>Team Charter</strong> - A document that establishes team values, agreements, and operating guidelines for the team.</p>
       <p><strong>Verified Deliverables</strong> - Completed project deliverables that have been checked and confirmed for correctness through the Control Quality process.</p>
