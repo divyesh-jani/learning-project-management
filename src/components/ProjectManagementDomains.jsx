@@ -26,7 +26,7 @@ export default function ProjectManagementDomains() {
         <img src='assets/domains/domain21.png' className='figure-img img-fluid rounded' alt='Team Performance Domain' />
       </figure>
       <p><strong>Servant leadership</strong> is a style that focuses on understanding and addressing the needs and development of project team members in order to enable the highest possible project team performance. Servant leadership behaviors include: Obstacle removal, Diversion shield, Encouragement and development opportunities.</p>
-      <p>Motivation to perform can intrinsic or extrinsic. Intrinsic motivation comes from inside the individual or is associated with the work. This is about finding pleasure in work rather than focusing on rewards. Extrinsic motivation is performing work because of some external reward such as bonus.</p>
+      <p>Motivation to perform can be intrinsic or extrinsic. Intrinsic motivation comes from inside the individual or is associated with the work. This is about finding pleasure in work rather than focusing on rewards. Extrinsic motivation is performing work because of some external reward such as bonus.</p>
       <p><strong>Emotional Intelligence</strong> is the ability to recognize our own emotions and those of others. This information is used to guide thinking and behavior. Four key areas of emotional intelligence:</p>
       <ul>
         <li>Self-awareness - ability to conduct a realistic self-assessment (including own emotions, goals, motivations, strengths, weaknesses)</li>
@@ -59,7 +59,7 @@ export default function ProjectManagementDomains() {
         <li>Multiple deliveries</li>
         <li>Periodic deliveries - like multiple deliveries but on fixed delivery schedule such as every 2 weeks or monthly</li>
       </ul>
-      <p><strong>Continuous delivery</strong> is the practice of delivering feature increments immediately to customers, often through the use of small batches of work and automation technology. This is be best used for digital products.</p>
+      <p><strong>Continuous delivery</strong> is the practice of delivering feature increments immediately to customers, often through the use of small batches of work and automation technology. This is best used for digital products.</p>
       <p>Development approaches:</p>
       <ul>
         <li>Predictive (Waterfall) - requirements can be defined and analyzed at the start of the project</li>
@@ -173,7 +173,7 @@ export default function ProjectManagementDomains() {
         <li>Experiments</li>
         <li>Prototypes</li>
       </ul>
-      <p>Negative risks are called threats and positive risks are called opportunities. Overall project risk is the effect or uncertainty on the project as a whole, arising from all sources of uncertainty.</p>
+      <p>Negative risks are called threats and positive risks are called opportunities. Overall project risk is the effect of uncertainty on the project as a whole, arising from all sources of uncertainty.</p>
       <p>Strategies to deal with Threats:</p>
       <ul>
         <li>Avoid (eliminate threat)</li>

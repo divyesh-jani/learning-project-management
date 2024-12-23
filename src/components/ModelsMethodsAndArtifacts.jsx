@@ -33,7 +33,7 @@ export default function ModelsMethodsAndArtifacts() {
           <li>Review (regular meetings to support and help remain motivated)</li>
         </ul>
       </ul>
-      <p>Donald Norman described the Guld of Execution as the degree to which an item corresponds with what a person expects it to do.</p>
+      <p>Donald Norman described the Gulf of Execution as the degree to which an item corresponds with what a person expects it to do.</p>
 
       <h6>Hygiene and Motivational Factors</h6>
       <p>Frederick Herzberg, based on study, believed that job satisfaction and dissatisfaction stem from conditions called motivational factors. Motivational factors include matters that relate to the content of the work, such as achievement, growth, and advancement. Insufficient motivational factors lead to dissatisfaction. Sufficient motivational factors lead to satisfaction.</p>
@@ -111,7 +111,7 @@ export default function ModelsMethodsAndArtifacts() {
         <li>Confronting/Problem solving (treat conflict as a problem to be solved)</li>
         <li>Collaborating (use when there is trust and time to come to consensus)</li>
         <li>Compromising (entails willingness to give and take, often used when parties involved have equal power)</li>
-        <li>Smoothing/Accommodating (used when there is difference in relative authority/power, goal more important that disagreement)</li>
+        <li>Smoothing/Accommodating (used when there is difference in relative authority/power, goal more important than disagreement)</li>
         <li>Forcing (when not enough time to problem-solve, one forces their will on the other)</li>
         <li>Withdrawal/Avoiding (hoping problem will go away on its own)</li>
       </ul>

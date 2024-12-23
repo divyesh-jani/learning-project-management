@@ -121,11 +121,13 @@ export default function Terminology() {
       <p><strong>SWOT Analysis</strong> - Analysis of strengths, weaknesses, opportunities, and threats of an organization, project, or option.</p>
       <p><strong>Three-point Estimation</strong> - Using three-point estimate helps define an appropriate range and thus provides improved estimation compared to single-point duration estimates. The three points are:</p>
       <ul>
-        <li>Most Likely (tM) - Realistic expectations</li>
-        <li>Optimistic (tO) - Best case scenario</li>
-        <li>Pessimistic (tP) - Worst case scenario</li>
+        <li>Most Likely (M) - Realistic expectations</li>
+        <li>Optimistic (O) - Best case scenario</li>
+        <li>Pessimistic (P) - Worst case scenario</li>
       </ul>
-      <p>Triangular Distribution formula is tE = (tO + tM + tP) / 3</p>
+      <p>Triangular Distribution formula is E = (O + M + P) / 3</p>
+      <p>PERT (Program Evaluation and Review Technique) distribution formula is E = (O + 4M + P) / 6</p>
+      <p>where E is the Estimate.</p>
       <p><strong>Risk's Expected Monitory Value</strong>: Impact($) x Probability(%)</p>
 
       <h5>Earned Value Calculations</h5>
