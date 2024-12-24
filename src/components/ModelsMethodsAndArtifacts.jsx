@@ -16,6 +16,16 @@ export default function ModelsMethodsAndArtifacts() {
       <p><strong>Method</strong> is the means for achieving an outcome, output, result, or project deliverable.</p>
       <p><strong>Artifact</strong> can be a template, document, output, or project deliverable.</p>
 
+      <h6>RACI Model</h6>
+      <p>The RACI model is a quick way to lay out roles and responsibilities on the project. It allows us to discuss, communicate, and agree upon roles for the project.</p>
+      <ul>
+        <li>Responsible - the person who actually owns the project, task, or work.</li>
+        <li>Accountable - the person who will sign off on the work and judge its completion based on how it meets quality standards.</li>
+        <li>Consulted - the person who has the ability or knowledge needed to complete the work.</li>
+        <li>Informed - people who must be kept informed of the work, but not necessarily consulted.</li>
+      </ul>
+      <p>Some organisations call this RASCI, with the addition of 'S' for either Support or Stakeholder.</p>
+
       <h6>Situational Leadership Models:</h6>
       <ul>
         <li>Ken Blanchard's Situational Leadership II</li>
@@ -66,6 +76,11 @@ export default function ModelsMethodsAndArtifacts() {
         <li className='listStyleTypeNone'>Abraham Maslow saw Theory Z as a transcendent dimension to work where individuals are motivated by self-realization, values, and higher calling. Management style is one that cultivates insight and meaning.</li>
         <li className='listStyleTypeNone'>William Ouchi's versin of Theory Z focuses on motivating employees by focusing on well-being of employees and their families. Management style seeks to promote high productivity, morale, and satisfaction.</li>
       </ul>
+
+      <h6>Maslow's Hierarchy of Needs</h6>
+      <figure className='figure'>
+        <img src='assets/models/hierarchy-of-needs.png' className='figure-img img-fluid rounded' alt="Maslow's Hierarchy of Needs" />
+      </figure>
 
       <h6>Managing Change</h6>
       <ul>

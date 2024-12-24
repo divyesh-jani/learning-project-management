@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://divyesh-jani.github.io/pmp/",
+  "homepage": "https://divyeshjani.github.io/pmp/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
