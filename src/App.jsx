@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useEffect } from 'react';
 import './App.css'
 import AgileGuide from './components/AgileGuide';
 import StandardForProjectManagement from './components/StandardForProjectManagement';
@@ -22,20 +23,22 @@ function App() {
     document.getElementById(thisElementId).className = 'tabBtn btn btn-primary fw-medium';
   }
 
-  const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
-  const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl));
+  useEffect(() => {
+    const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+    const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl));
+  }, []);
 
   return (
     <div>
       <header className='px-4 my-4 text-center'>
         <h1 className='display-6 fw-normal'>Project Management - PMP</h1>
-        <div className='col-lg-6 mx-auto'>
+        <div className='col-lg-10 mx-auto'>
           <p className='lead mb-4 fw-normal'>Learn the essentials of Project Management and prepare for PMP certification test.</p>
         </div>
       </header>
 
       <nav className='px-4 my-4 text-center sticky-top'>
-        <div className='d-grid gap-2 d-sm-flex justify-content-sm-center topics'>
+        <div className='d-grid gap-2 d-md-flex justify-content-md-center topics'>
           <button type='button' className='tabBtn btn btn-primary fw-medium' onClick={() => useTab(1)} id='btn1'>Terminology</button>
           <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(2)} id='btn2'>Process Groups</button>
           <button type='button' className='tabBtn btn btn-outline-secondary fw-medium' onClick={() => useTab(3)} id='btn3'>Standard</button>
