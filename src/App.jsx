@@ -68,7 +68,7 @@ function App() {
             <li className="nav-item mx-1 px-1"><a href="https://divyesh.org" target="_blank" data-bs-toggle="tooltip" data-bs-title="Donate" data-bs-custom-class="custom-bs-tooltip"><img src="https://divyeshjani.github.io/shared/img/donate.png" className="nav-link px-2 text-body-secondary social" alt="Divyesh.org" /></a></li>
           </ul>
           <div className='col-lg-12 mx-auto text-body-secondary'>
-            <p className='mb-4'>© 2024 Project Management Institute (<a href='https://www.pmi.org/' target='_blank'>PMI</a>) and Divyesh Jani. Images credit <a href='https://www.pmi.org/standards/' target='_blank'>PMI books and resources</a> including PMBOK 6<sup>th</sup> and 7<sup>th</sup> Edition.</p>
+            <p className='mb-4'>© 2024-2025 Project Management Institute (<a href='https://www.pmi.org/' target='_blank'>PMI</a>) and Divyesh Jani. Images credit <a href='https://www.pmi.org/standards/' target='_blank'>PMI books and resources</a> including PMBOK 6<sup>th</sup> and 7<sup>th</sup> Edition.</p>
           </div>
         </div>
       </footer>
