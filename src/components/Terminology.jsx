@@ -8,7 +8,7 @@ export default function Terminology() {
       <p><strong>Basis of Estimates</strong> - Supporting documentation outlining the details used in establishing project estimates such as assumptions, constraints, level of detail, ranges, and confidence levels.</p>
       <p><strong>Change Log</strong> - A comprehensive list of changes submitted during the project, which includes the current status.</p>
       <p><strong>Cost Baseline</strong> - Approved version of time-phased project budget, excluding any management reserves, used as basis for comparison to actual results.</p>
-      <p><strong>Development Approach</strong> - Can be Predictive (waterfall), Adaptive (Agile), or Hybrid.</p>
+      <p><strong>Development Approach</strong> - Can be Predictive (Waterfall), Adaptive (Agile), or Hybrid.</p>
       <p><strong>Enterprise Environmental Factors (EEFs)</strong> - Conditions, not under the immediate control of the team, that influence, constrain, or direct the project, program, or portfolio.</p>
       <p><strong>Issue Log</strong> - A project document where information about issues is recorded and monitored.</p>
       <p><strong>Lessons Learned Register</strong> - A project document used to record knowledge gained during a project so that it can be used in current project and entered into the lessons learned repository.</p>
