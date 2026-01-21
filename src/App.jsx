@@ -31,7 +31,7 @@ function App() {
   return (
     <div>
       <header className='px-4 my-4 text-center'>
-        <h1 className='display-6 fw-normal'>Project Management - PMP</h1>
+        <h1 className='fw-normal'>Project Management - PMP</h1>
         <div className='col-lg-10 mx-auto'>
           <p className='lead mb-4 fw-normal'>Learn the essentials of Project Management and prepare for PMP certification test.</p>
         </div>
@@ -65,7 +65,7 @@ function App() {
             <li className="nav-item mx-1 px-1"><a href="https://github.com/divyesh-jani/" target="_blank" data-bs-toggle="tooltip" data-bs-title="Github Account" data-bs-custom-class="custom-bs-tooltip"><img src="https://divyeshjani.github.io/shared/img/github.png" className="nav-link px-2 text-body-secondary social" alt="Github" /></a></li>
             <li className="nav-item mx-1 px-1"><a href="https://divyeshjani.com" target="_blank" data-bs-toggle="tooltip" data-bs-title="Divyesh Jani Portfolio" data-bs-custom-class="custom-bs-tooltip"><img src="https://divyeshjani.github.io/shared/img/favicon.png" className="nav-link px-2 text-body-secondary social-lg" alt="DivyeshJani.com" /></a></li>
             <li className="nav-item mx-1 px-1"><a href="mailto:contact.djani@gmail.com?subject=Hello from your website" data-bs-toggle="tooltip" data-bs-title="Email Divyesh" data-bs-custom-class="custom-bs-tooltip"><img src="https://divyeshjani.github.io/shared/img/email.png" className="nav-link px-2 text-body-secondary social" alt="Email" /></a></li>
-            <li className="nav-item mx-1 px-1"><a href="https://divyesh.org" target="_blank" data-bs-toggle="tooltip" data-bs-title="Donate" data-bs-custom-class="custom-bs-tooltip"><img src="https://divyeshjani.github.io/shared/img/donate.png" className="nav-link px-2 text-body-secondary social" alt="Divyesh.org" /></a></li>
+            <li className="nav-item mx-1 px-1"><a href="https://divyesh.org" target="_blank" data-bs-toggle="tooltip" data-bs-title="Change Lives" data-bs-custom-class="custom-bs-tooltip"><img src="https://divyeshjani.github.io/shared/img/donate.png" className="nav-link px-2 text-body-secondary social" alt="Divyesh.org" /></a></li>
           </ul>
           <div className='col-lg-12 mx-auto text-body-secondary'>
             <p className='mb-4'>© 2024-2026 Project Management Institute (<a href='https://www.pmi.org/' target='_blank'>PMI</a>) and Divyesh Jani. Images credit <a href='https://www.pmi.org/standards/' target='_blank'>PMI books and resources</a> including PMBOK 6<sup>th</sup> and 7<sup>th</sup> Edition.</p>

@@ -1,3 +1,9 @@
 :root {
   font-family: -apple-system, BlinkMacSystemFont, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
+
+body,
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

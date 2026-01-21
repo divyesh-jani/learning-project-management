@@ -2,16 +2,29 @@ h1, h2, h3, h4, h5 {
     color: royalblue;
 }
 
-h6 {
-    color: midnightblue;
+h1 {
+    font-size: 2rem;
 }
 
-h4, h5 {
-    font-weight: normal;
+h3 {
+    font-size: 1.5rem;
 }
 
 h4 {
+    font-size: 1.3rem;
+    font-weight: normal;
     margin-bottom: 1rem;
+}
+
+h5 {
+    font-size: 1.2rem;
+    font-weight: normal;
+    color: #1035ac;
+}
+
+h6 {
+    font-size: 1.1rem;
+    color: midnightblue;
 }
 
 strong {
